@@ -1,4 +1,0 @@
-streamlit
-PIL
-google-generativeai
-pandas
